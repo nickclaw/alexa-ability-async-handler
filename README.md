@@ -1,5 +1,7 @@
 # alexa-ability-async-handler [![Build Status](https://travis-ci.org/nickclaw/alexa-ability-async-handler.svg?branch=master)](https://travis-ci.org/nickclaw/alexa-ability-async-handler)
 
+A promise based alexa-ability handler
+
 ### Example
 
 ```js

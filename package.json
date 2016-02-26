@@ -1,7 +1,7 @@
 {
   "name": "alexa-ability-async-handler",
   "version": "0.1.0",
-  "description": "Expose an alexa-ability as a promise",
+  "description": "A promise based alexa-ability handler",
   "main": "lib/index.js",
   "scripts": {
     "build": "rm -rf lib && babel src --out-dir lib",
